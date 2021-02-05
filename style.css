@@ -1,0 +1,12 @@
+body {
+    display: flex;
+}
+
+.red{
+    fill: crimson;
+}
+
+svg{
+
+    margin: 100px auto;
+}
