@@ -3,10 +3,11 @@ body {
 }
 
 .red{
+    transition: 1s;
     fill: crimson;
 }
 
 svg{
-
+    transition: 1s;
     margin: 100px auto;
 }
